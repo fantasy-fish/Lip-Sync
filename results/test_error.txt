@@ -1,0 +1,7 @@
+Average cosine similarity binary cross entropy loss for each video
+0001.mp4: 0.6780011471774843
+0002.mp4: 0.742944296863344
+0003.mp4: 0.7500469966067208
+0004.mp4: 0.8183644298050139
+
+From the values, we can see large difference between the loss for 0001.mp4 and 0003.mp4. The same difference also lies between the loss for 0002.mp4 and 0004.mp4.
